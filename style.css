@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Gotham SSm", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif ;
+}
+
+
+.upto{
+    
+    text-align: center;
+    font-weight: lighter;
+    color: rgb(0, 0, 0);
+    opacity: 50%;
+    height: 50px;
+
+
+}
+.solar{
+    width: 100%;
+    
+}
+
+.back-video{
+    position:absolute;
+    right: 0px;
+    bottom: 0;
+    top: 30px;
+    z-index: -1;
+    padding: 0px;
+    width: 100%;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    font-size: 11px;
+    font-weight: 600;
+    color: white;
+    
+    
+   
+}
+ul{
+    display: flex;
+    gap: 50px;
+    
+}
+
+.tesla{
+    text-align: center;
+    padding-top: 30px;
+    color:white;
+    
+}
+
+.tesla h1{
+    font-weight: 500;
+
+}
+
+.btn{
+    height: 35px;
+    width: 220px;
+    border-radius: 3px;
+    border: 2px;
+    background-color: rgba(10, 10, 10, 0);
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    color: aliceblue;
+    
+    
+
+}
+.bttn{
+    
+    padding-left: 42%;
+    padding-top: 30%;
+    
+}
+.model{
+    position: relative;
+    height: 110vh;
+    width: 100%;
+    background-image: url(images/asset\ 0.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+    
+    
+    
+}
+.images2{
+    text-align:center;
+    padding-top: 80px;
+    
+}
+
+.images2 h1{
+    font-weight: 500;
+}
+.images2 h6{
+    font-weight: 500;
+}
+
+
+.bttn2{
+    margin-top: 35%;
+
+
+}
+
+.btnn1{
+    height: 30px;
+    width: 210px;
+    border-radius: 3px;
+    border: 0px;
+    background-color: rgb(100, 100, 100);
+    border-style: solid;
+    color: rgb(255, 255, 255);
+    
+}
+.btnn2{
+    height: 30px;
+    width: 210px;
+    border-radius: 3px;
+    border: 0px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+
+.modely{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/asset\ 1.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.modely{
+    text-align: center;
+    font-weight: 500;
+    
+}
+.image3 h1{
+    font-weight: 500;
+    padding-top: 50px;
+    
+}
+.modely h6{
+    font-weight: 500;
+}
+.image3 h6{
+    font-weight: 500;
+}
+
+.models{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/asset\ 2.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.models{
+    text-align: center;
+    font-weight: 500;
+    
+}
+.models h6{
+    font-weight: 500;
+}
+
+.modelx{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/asset\ 3.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.modelx{
+    text-align: center;
+    font-weight: 500;
+    
+}
+.modelx h6{
+    font-weight: 500;
+}
+
+.Panels{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/asset\ 4.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Panels{
+    text-align: center;
+    font-weight: 500;
+
+    
+}
+.panels h6{
+    font-weight: 500;
+}
+
+
+.Roofs{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/asset\ 5.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Roofs{
+    text-align: center;
+    font-weight: 500;
+    
+}
+.Roofs h6{
+font-weight: 500;
+}
+
+
+.Accessories{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-image: url(images/asset\ 6.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.Accessories{
+    text-align: center;
+    font-weight: 500;
+    
+}
+.bttn2 p{
+    font-size: 10px;
+}
+
+.btnn3{
+    height: 30px;
+    width: 210px;
+    border-radius: 3px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    
+}
+
