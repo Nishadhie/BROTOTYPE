@@ -241,12 +241,15 @@ font-weight: 500;
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
-}
-.Accessories{
     text-align: center;
     font-weight: 500;
-    
 }
+
+.Accessories p{
+    padding-top: 20px;
+}
+
+
 .bttn2 p{
     font-size: 10px;
 }
